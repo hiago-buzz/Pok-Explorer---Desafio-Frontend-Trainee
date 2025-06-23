@@ -36,3 +36,8 @@ Este projeto deve ser uma aplicação React que consome a [PokéAPI](https://pok
 - Testes
 - Funcionalidades adicionais
 - Reavaliar o Layout
+- Commits semânticos
+
+## Como Aplicar
+
+- Dar Fork no projeto e aplicar o pull request descritivo.  
